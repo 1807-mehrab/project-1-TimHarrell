@@ -21,6 +21,7 @@ password: t
 DATABASE:
 
 make a file called "hotelconnection.properties"
+
 type this into it
 
 "
